@@ -1,0 +1,164 @@
+ls
+ccd
+cd
+ls
+cd .zsh
+ll
+ls
+la
+ls -a
+..
+ls
+la
+ls -a
+vim .zshrc
+brew list
+brew abv zsh
+vim .zshrc
+ll
+ls
+vim .zshrc
+fg
+brew list
+brew abv zsh-completions
+vim .zshrc
+vim .zshrc
+fg
+brew abv zsh-lovers
+cd /usr/local/Cellar/zsh-lovers
+ls
+cd 0.9.0
+ls
+cd share
+ls
+cd man
+ls
+cd man1
+ls
+cat zsh-lovers.1
+man zsh-lovers
+ls
+la
+cd
+ls
+la
+ls -a
+vim .zcompdump
+vim .aliases 
+vim .bashrc
+vim  .curlrc
+rm .curlrc
+ll
+ls
+vim .exports
+vim .vimrc
+rm .vim*
+rm -rf .vim
+ll
+ls
+la
+ls -a
+mv backup/.vim .
+ls backup
+ls -a backup
+cat backup/.vimrc
+ls -a backup
+cat backup/.viminfo
+ls
+mv backup/.viminfo .
+ls
+ls -a
+ls
+ln -s Dropbox/dotfiles/scripts/vim/vimrc.vim .vimrc
+ls -a
+vim .screenrc
+vim .inputrc
+ls
+ls -a
+env
+vim .exports
+exit
+ls
+brew abv zsh-completions
+echo $PATH
+export PATH=/usr/local/bin:$PATH
+brew list
+brew remove zsh-lovers
+brew remove zsh-syntax-highlighting
+brew remove zsh-history-substring-search
+brew remove zsh-completions
+env
+_
+$_
+env
+exit
+ls
+exit
+exit
+exit
+ls
+la
+ls
+ls -a
+ls -al
+env
+bash
+ls
+env
+vim .bash_profile
+ls
+source .bashrc
+zsh
+eixt
+exit
+exit
+ls
+fg
+vim .bash_profile
+vim .bash_prompt
+env
+vim .bash_prompt
+fg
+bash
+exit
+bash
+exit
+bash
+bash
+/bin/bash
+echo $SHELL
+exixt
+exit
+vim .bash_pro
+vim .bash_prompt
+sh
+ls
+vim .bash_profile
+exit
+bash
+exit
+brew list
+vim .zshrc
+ls
+ls -a
+vim .zsh
+touch .zsh/.zshenv
+ls
+vim .zshenv
+ls
+vim .zshrc
+exit
+env
+exit
+env
+ls
+la
+ls
+la
+ll
+ls
+l
+ls
+la
+ls
+exit

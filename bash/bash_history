@@ -1,0 +1,278 @@
+cd .bash-it/
+cat install.sh 
+cd ..
+mv .bash-it .bash_it
+cd ..
+mv bash-it  .bash-it
+vim .bash_profile 
+cd .bash-it/
+cat install.sh 
+cd ..
+mv .bash-it .bash_it
+ ls
+cd Documents/
+cd 
+zsh
+cd Workspace/
+ll
+cd docs/
+dc dauxio/
+cd dauxio/
+cd daux.io-master/
+php index.php generate
+open static/index.html 
+brew search doxx
+brew search dox
+cd
+rm -rf .bash_history .bash_it .bash_profile  .gem .viminfo 
+cat .exports 
+rm .exports 
+la
+ls -A
+cd Developer/
+cd mathiasbynens/
+cd dotfiles/
+cat README.md 
+ls
+exit
+cat Caskfile 
+brew pip
+vim .bash_profile 
+ls
+echo $SHELL
+ls
+export PATH=/usr/local/bin:$PATH
+echo $PATH 
+ll
+ls
+cd Developer/
+ls
+cd mathiasbynens/
+ls
+cd dotfiles/
+ls
+source bootstrap.sh 
+cat Brewfile 
+brew home xpdf
+brew home exiv2
+brew home foremost
+brew home lynx
+brew home pigz
+brew home pv
+brew list
+zsh
+ll
+la
+brew list
+brew update
+git config --global user.email "you@example.com"
+git config --global user.email "themelroser@gmail.com"
+git config --global user.name "melroser"
+brew update
+brew upgrade
+brew cleanup
+brew install bash
+vim /etc/shells 
+chsh -s /usr/local/bin/bash
+la
+cat .hushlogin 
+man login
+cat .aliases 
+els
+la
+ll
+ls -a
+cat .bashrc 
+cat .functions 
+tree
+la
+pip list
+pip install mrbob
+pip install mr.bob
+brew search comp
+brew home bash-completion
+brew install bash-completion
+vim .bash_profile 
+fg
+brew aspell-dictionaries 
+brew cleanup-installed 
+brew config
+brew options 
+brew search comp
+brew home compcert 
+brew home compface
+brew install pip-completion 
+brew home advancecomp 
+brew home bash-completion
+brew home bash-completion2
+brew instal bash-completion2
+pip list
+pip help
+mrbob -help
+brew install readline 
+pip install readline
+mrbob cd Workspace/
+cd Workspace/
+cd do
+cd docs/
+mkdir mrbob
+cd mrbob/
+mrbob mrbob:template_sample/
+cat sample.txt 
+mrbob bobtemplates.gillux:buildout
+pip install bobtemplates.gillux
+mrbob bobtemplates.gillux:buildout
+cat bootstrap.py 
+ll
+cat sample.txt 
+rm  *
+mrbob bobtemplates.gillux:nspackage
+ll
+la
+cat MANIFEST.in 
+cat README.rst 
+python setup.py develop
+pip list
+python setup.py build_sphinz
+python setup.py build_sphinx
+pip list
+pip install sphinx
+brew search dox
+brew home doxygen1831 
+brew home doxygen
+brew abv doxygen
+brew abv doxygen1831 
+brew search clang
+brew list
+brew install cmake
+brew list libc
+brew search libc
+brew abv doxygen
+brew lsit
+brew list
+brew home grap
+brew home graph-tool 
+brew home graphicsmagick 
+brew home graphviz 
+brew install graphviz 
+dot
+dot_clean 
+cd Workspace/
+brew abv graphviz
+brew uninstall graphviz 
+ln -s /usr/local/include/freetype2 /usr/local/include/freetype
+brew install pillow imagemagick graphviz
+brew install graphviz --verbose --with-app --with-gts --with-freetype --with-bindings --with-librsvg --with-pangocairo 
+ll
+dot
+cd /usr/local/Cellar/graphviz/
+ll
+la
+cd 2.38.0/
+./Graphviz.app/
+open ./Graphviz.app
+la
+cd ..
+open Graphviz.app/
+open Graphviz.app
+cat README 
+open share/graphviz/doc/html/in
+open share/graphviz/doc/html/index.html 
+dot -Tps graph1.gv -o graph1.ps
+..
+cd 2.38.0/
+cat bin/
+ls bin/
+cd bin/
+cd ..
+..
+brew doctor 
+curl http://github.com
+popd
+brew link graphviz
+brew link --overwrite graphviz
+sudo brew link --overwrite graphviz
+brew link --overwrite graphviz
+chmod a+w /usr/local/include/graphviz/**
+sudo chmod a+w /usr/local/include/graphviz/**
+brew link --overwrite graphviz
+ curl http://github.com
+brew search sfood
+pip instal sfood
+pip install sfood
+/bin/zsh 
+sudo /etc/zshenv 
+sudo vim /etc/zshenv 
+ll
+mkdir .zsh
+ll
+zsh
+ll
+cd D
+echo $SHELL
+brew list
+which python
+pythonll
+ll
+zsh
+brew abv zsh
+zsh
+env
+zsh
+vim .bash_pro
+vim .bash_profile 
+vim .bash_prompt 
+vim .bash_profile 
+la
+vim bin/bash 
+vim .bash_profile 
+ls -a
+vim .inputrc 
+vim .bashrc 
+env
+$`
+'
+!
+3
+
+
+q
+ls
+vim .bash_prompt 
+vim .bash_profile 
+bsh
+bash
+vim .bash_profile 
+bash
+zsh
+exit
+vim .bash_profile 
+bash
+eix
+exit
+ls
+la
+ls
+chsh -s /bin/bash 
+chsh -s /bin/bash 
+exit
+ls
+la
+env
+ls
+source .bash_profile 
+ls
+source .bash_prompt 
+vim .bash_profile 
+env
+echo $DOTFILES 
+vim .bash_profile 
+env
+vim .bash_profile 
+fg
+exit
+exit
+ll
+la
+vim
+chsh -s /usr/local/bin/zsh
