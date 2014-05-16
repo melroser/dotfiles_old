@@ -7,7 +7,7 @@ source "${ZDOTDIR}/.aliases"
 source "${ZDOTDIR}/zsh/completion.zsh"
 source "${ZDOTDIR}/zsh/bindkeys.zsh"
 source "${ZDOTDIR}/.functions"
-source "${ZDOTDIR}/zsh/history.zsh"
+source "${ZDOTDIR}/zsh/zsh_history.zsh"
 source "${ZDOTDIR}/zsh/zsh_hooks.zsh"
 source "${ZDOTDIR}/zsh/hitch.zsh"
 # source /opt/boxen/env.sh

@@ -9,9 +9,6 @@ antigen bundle brew
 antigen bundle cp
 antigen bundle docker
 antigen bundle fasd
-antigen bundle git
-antigen bundle git-flow
-antigen bundle git-extras
 antigen bundle jira
 antigen bundle mvn
 antigen bundle pep8

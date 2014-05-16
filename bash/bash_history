@@ -276,3 +276,67 @@ ll
 la
 vim
 chsh -s /usr/local/bin/zsh
+ls
+sh initramfs.sh flexstar/etc/VERSION
+sh initramfs.sh flexstar/etc/$VERSION
+sh initramfs.sh flexstar/etc/$(VERSION)
+sh initramfs.sh $(flexstar/etc/VERSION)
+sudo sh initramfs.sh $(flexstar/etc/VERSION)
+sudo sh initramfs.sh flexstar/etc/VERSION
+cat flexstar/etc/VERSION 
+cat flexstar/etc/VERSION >> initramfs.sh 
+sh initramfs.sh << sudo cat flexstar/etc/VERSION
+
+
+sudo cat flexstar/etc/VERSION
+sudo cat flexstar/etc/VERSION >> sh initramfs.sh 
+sudo cat flexstar/etc/VERSION >>sudo sh initramfs.sh 
+cat flexstar/etc/VERSION >>sudo sh initramfs.sh 
+su root
+bearsfloporangeturtles
+ll
+sudo sh initramfs.sh flexstar/etc/VERSION
+sudo sh initramfs.sh flexstar/etc/$VERSION
+sudo sh initramfs.sh echo flexstar/etc/$VERSION
+sudo sh initramfs.sh $(cat flexstar/etc/VERSION)
+$(cat flexstar/etc/VERSION) >> echo
+sudo $(cat flexstar/etc/VERSION) >> echo
+chmod u+x initramfs.sh 
+ll
+la
+ls -al
+chmod u+x flexstar/etc/VERSION
+ll flexstar/etc/
+ll flexstar/etc
+ll flexstar/etc/*
+pwd
+cd flexstar/
+ls
+ll
+ls
+cd $J
+cd $j
+ls
+pwd
+cd jail/
+ls
+pwd
+cp -v /bin/{bash,ls} $J/bin
+la
+cp -v /initrd/flexstar/bin/{bash,ls} $J/bin
+ls
+del bin/*
+sudo del bin/*
+sudo rm -rf bin/*
+sudo cp -v /initrd/flexstar/bin/{bash,ls} $J/bin
+ldd /bin/bash
+ld /bin/bash
+ld /bin/bash -arch=x86_64
+ld /bin/bash -macosx_version_min=10.9
+export ARCHFLAGS='-arch=x86_64'
+export macosx_version_min=10.9
+ld /bin/bash -macosx_version_min=10.9
+env
+envcls
+ll
+exit
