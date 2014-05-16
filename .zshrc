@@ -1,1 +1,1 @@
-/Users/robert/.config/melroser/dotfiles/zsh/zshrc.zsh
+/Users/RobertMelrose/Developer/dotfiles/zsh/zshrc.zsh

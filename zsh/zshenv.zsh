@@ -7,7 +7,7 @@
 # Author:
 #   melroser <themelroser@gmail.com>
 
-export ZDOTDIR="${HOME}/.config/melroser/dotfiles"
+export ZDOTDIR="${HOME}/Developer/dotfiles"
 
 if [ -x /usr/libexec/path_helper ]; then
 	eval `/usr/libexec/path_helper -s`

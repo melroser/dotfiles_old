@@ -1,4 +1,4 @@
-#files: 712	version: 5.0.5
+#files: 710	version: 5.0.5
 
 _comps=(
 '-' '_precommand'
@@ -412,7 +412,12 @@ _comps=(
 'git' '_git'
 'git-branch' '_git-branch'
 'git-buildpackage' '_git-buildpackage'
+'git-cvsserver' '_git'
+'git-receive-pack' '_git'
 'git-remote' '_git-remote'
+'git-shell' '_git'
+'git-upload-archive' '_git'
+'git-upload-pack' '_git'
 'gitk' '_git'
 'gln' '_ln'
 'global' '_global'
@@ -1014,6 +1019,7 @@ _comps=(
 'texindex' '_texinfo'
 'tg' '_topgit'
 'tidy' '_tidy'
+'tig' '_git'
 'time' '_precommand'
 'times' '_nothing'
 'tin' '_tin'
